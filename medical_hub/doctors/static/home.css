@@ -1,0 +1,9 @@
+#myCarousel .carousel-item img {
+  object-fit: cover; /* Proportionally crop and fit the image */
+  object-position: center; /* Center the image within the container */
+  height: 65vh; /* Set the desired height (you can adjust this) */
+  overflow: hidden; /* Chop off any extra bits of image */
+}
+.doctor_name{
+  text-decoration: none;
+}
